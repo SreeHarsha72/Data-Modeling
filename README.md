@@ -26,4 +26,4 @@ This repo demonstrates of creating a structured data model by showing how a larg
    - Merge dimension tables into a fact table using common keys.
    - Validate the schema by outputting sample data.
   
-![image](data_model.jpeg)
+![image](data_model.jpg)
